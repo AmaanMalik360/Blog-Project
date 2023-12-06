@@ -1,0 +1,42 @@
+{
+  "blogs": [
+    {
+      "author": "yoshi",
+      "id": 2,
+      "title": "Opening Party",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto.  Why do we use it? \n It is a long established fact that a reader will be distracted."
+    },
+    {
+      "title": "It was a good day",
+      "body": "A song made by ice cube in 1991.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "New Blog",
+      "body": "This is a new blog",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "Article By Amaan",
+      "body": "This is created to check whether the id is generated automatically or not in the db file.",
+      "author": "mario",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1",
+      "email": "user1@gmail.com",
+      "password": "User 1"
+    },
+    {
+      "name": "User 2",
+      "email": "user2@gmail.com",
+      "password": "User 2",
+      "id": 2
+    }
+  ]
+}
